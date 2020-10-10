@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/overstonk.iml" filepath="$PROJECT_DIR$/.idea/overstonk.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/stonks-ingester/stonks-ingester.iml" filepath="$PROJECT_DIR$/stonks-ingester/stonks-ingester.iml" />
+>>>>>>> edf7dc2... OS-0: setting up the project a bit
     </modules>
   </component>
 </project>
