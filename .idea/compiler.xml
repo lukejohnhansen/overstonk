@@ -7,9 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         <module name="stonks-ingester" />
 >>>>>>> edf7dc2... OS-0: setting up the project a bit
+=======
+>>>>>>> 28c16d7... deleted dev log
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

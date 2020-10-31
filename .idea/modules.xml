@@ -4,9 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/overstonk.iml" filepath="$PROJECT_DIR$/.idea/overstonk.iml" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <module fileurl="file://$PROJECT_DIR$/stonks-ingester/stonks-ingester.iml" filepath="$PROJECT_DIR$/stonks-ingester/stonks-ingester.iml" />
 >>>>>>> edf7dc2... OS-0: setting up the project a bit
+=======
+>>>>>>> 28c16d7... deleted dev log
     </modules>
   </component>
 </project>
